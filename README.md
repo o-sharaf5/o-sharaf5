@@ -22,10 +22,10 @@
 
 | Project | What it is | Highlights | Live |
 | --- | --- | --- | --- |
-| [**PostPulse**](https://github.com/o-sharaf5/PostPulse) | AI content scheduler for X & LinkedIn | Clerk auth, Inngest `sleepUntil` scheduled publishing, AES-256-GCM token encryption, OpenAI rewriting, Prisma/Postgres | — |
-| [**BioLink Pro**](https://github.com/o-sharaf5/biolink-pro) | Link-in-bio SaaS | Stripe tips + webhooks, first-party analytics, dynamic public pages, zod-validated API | — |
+| [**PostPulse**](https://github.com/o-sharaf5/PostPulse) | AI content scheduler for X & LinkedIn | Clerk auth, Inngest `sleepUntil` scheduled publishing, AES-256-GCM token encryption, OpenAI rewriting, Prisma/Postgres | [Live demo](https://post-pulse-dun.vercel.app) |
+| [**BioLink Pro**](https://github.com/o-sharaf5/biolink-pro) | Link-in-bio SaaS | Stripe tips + webhooks, first-party analytics, dynamic public pages, zod-validated API | [Live demo](https://biolink-pro-ten.vercel.app) |
 | [**DocCraft**](https://github.com/o-sharaf5/DocCraft) | Client-side Markdown → PDF/Image/HTML exporter | 100% browser-side, html2canvas A4 pagination, CodeMirror 6, localStorage autosave | [Live demo](https://doccraft-tau.vercel.app) |
-| [**SigFlow**](https://github.com/o-sharaf5/SigFlow) | HTML email signature generator | Paste-safe Gmail/Outlook output, 4 templates, XSS-escaped, fully static | — |
+| [**SigFlow**](https://github.com/o-sharaf5/SigFlow) | HTML email signature generator | Paste-safe Gmail/Outlook output, 4 templates, XSS-escaped, fully static | [Live demo](https://sigflow-henna.vercel.app) |
 
 ---
 
