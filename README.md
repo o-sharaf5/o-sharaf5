@@ -3,6 +3,7 @@
 **Full-stack web engineer** building production-grade apps with **TypeScript, React, and Next.js** — from client-side tools to multi-tenant SaaS with auth, payments, and background jobs.
 
 🎯 Currently looking for **full-stack / frontend-heavy roles** where I can ship real product.
+🌐 **Portfolio with live demos: [portfolio-azure-sigma-29.vercel.app](https://portfolio-azure-sigma-29.vercel.app)**
 
 ---
 
