@@ -37,7 +37,7 @@
 
 ---
 
-📫 **Reach me:** os.omarsharaf@gmail.com · [LinkedIn](https://www.linkedin.com/in/omar-sharaf5)
+📫 **Reach me:** os.omarsharaf@gmail.com
 
 <!--
 Unreadable visitor badge (optional, harmless):
